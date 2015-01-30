@@ -35,7 +35,7 @@ feature 'Donors:' do
 			visit '/'
 			expect(page).to have_link 'What more can I do?'
 		  click_link('What more can I do?')
-	 		expect(page).to have_content 'Content coming soon...'
+	 		expect(page).to have_content 'Coders: want to contribute?'
 		end
 
 	end

@@ -160,8 +160,8 @@ feature 'Charities:' do
 
 		scenario 'should be able to contact site admin', :js => true do
 			visit '/'
-			expect(page).to have_link 'Contact Us'
-		  click_link('Contact Us')
+			expect(page).to have_link 'Contact'
+		  click_link('Contact')
 	 		expect(page).to have_content 'team@oodls.io'
 		end
 
@@ -169,7 +169,14 @@ feature 'Charities:' do
 			visit '/'
 			expect(page).to have_link 'Do I Qualify?'
 		  click_link('Do I Qualify?')
-	 		expect(page).to have_content 'Content coming soon...'
+	 		expect(page).to have_content 'The following organisations may sign up to Oodls:'
+		end
+
+		scenario 'should be able to find out more about the site', :js => true do
+			visit '/'
+			expect(page).to have_link 'About'
+		  click_link('About')
+	 		expect(page).to have_content 'Oodls is ...'
 		end
 
 	end
