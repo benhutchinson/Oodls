@@ -28,7 +28,7 @@ feature 'Donors:' do
 			visit '/'
 			expect(page).to have_link 'Donation Guidelines'
 		  click_link('Donation Guidelines')
-	 		expect(page).to have_content 'Content coming soon...'
+	 		expect(page).to have_content 'Make sure your waste food is suitable for donation:'
 		end
 
 		scenario 'should be able to see if there is more they can do', :js => true do
