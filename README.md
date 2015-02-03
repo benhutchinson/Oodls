@@ -22,13 +22,6 @@ This was our final two-week challenge at Makers Academy.  We sought to create a 
 <img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/presentationfront.png">
 
 
-
-- mobile
-- analytics/twitter
-- ppt link in techs.
-
-
-
 ###The Cause : Resources
 Here are some links that give further background on the topic.  I have summarised some of the key points from the House of Commons report in [a separate page here.](https://github.com/benhutchinson/Oodls/blob/master/NotesHouseOfCommons.md) but also extracted some statistics that caught my eye from the sources below.
 * [FareShare](http://www.fareshare.org.uk/)
@@ -41,7 +34,7 @@ Here are some links that give further background on the topic.  I have summarise
 
 
 ###The Cause : Some Killer Stats
-* Almost 50% of the total amount of food thrown away in the UK comes from our homes.  As consumers, we throw away 7 million tonnes of food and drink from our homes every year in the UK, and more than half of this is food and drink we could have eaten. We throw away more food from our homes than packaging in the UK every year and an area almost the size of Wales would be needed to grow all of the food we throw away each year. (Source: [Love Food Hate Waste](http://england.lovefoodhatewaste.com/node/2472))
+* Almost 50% of the total amount of food thrown away in the UK comes from our homes.  Each year a consumers, we throw away 7 million tonnes of food and drink from our homes in the UK.  More than half of this is food and drink we could have eaten.  We throw away more food from our homes than packaging in the UK every year and an area almost the size of Wales would be needed to grow all of the food we throw away each year. (Source: [Love Food Hate Waste](http://england.lovefoodhatewaste.com/node/2472))
 
 * FareShare provided 13.2m meals last year and state that over 82,000 people benefit from FareShare food per day.  They believe the beneficiary charities that they serve saved costs of around £13k as a result.  Despite this, they believe that they are currently handling just 1.5% of surplus food available in the UK.  They believe that c800m meals could be provided having assessed food wasted and a proportion that is fit for consumption.
 
@@ -51,13 +44,19 @@ Here are some links that give further background on the topic.  I have summarise
 
 
 ###Our Minimum Viable Product & Basic User Story
-An individual consumer with spare food to donate should be able to visit our site, enter a post-code, and then be presented with a list of local charities that would accept their food.  The applicable charities' locations should be clearly presented and sorted according to their proximity.  [Our larger original wireframe graphics illustrating our user story & graphical user interface can be seen here](https://github.com/benhutchinson/Oodls/blob/master/ideas.md#gui--user-story) and [Claudia's more extensive, original MVP can be found here.](https://github.com/benhutchinson/Oodls/blob/master/mvp.md)  A scaled down version of our user story is shown below.
+An individual consumer with spare food to donate should be able to visit our site, enter a post-code, and then be presented with a list of local charities that would accept their food.  The applicable charities' locations should be clearly presented and sorted according to their proximity, with some parallels to the likes of [Freecycle](https://www.freecycle.org/), [Freegle](https://ilovefreegle.org/), and [Gumtree.](http://www.gumtree.com)  [Full wireframe graphics illustrating our user story & graphical user interface design plans can be seen here](https://github.com/benhutchinson/Oodls/blob/master/ideas.md#gui--user-story) along with [Claudia's more extensive, original MVP here.](https://github.com/benhutchinson/Oodls/blob/master/mvp.md)  A scaled down version of our user story is shown below.
 
 <p>
 <img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/smalluserstory.png">
 
 
-###Screenshots : Final Product
+###Name, Branding & Promotion Ideas
+We were keen to almost gamify the topic and brand through an animal character to engage people of all ages.  Meercats have little to do with insurance but are memorable.  Oodles the Owl, Foodles, Share Bear, Town Mouse vs Country Mouse, seemed to be some of the key ideas that grabbed us, with oodles seeming the most catchy.  The name became Oodls following domain name considerations.  [Alan's initial draft logos can be viewed here.](https://github.com/benhutchinson/Oodls/blob/master/ideas.md#logo-iterations) 
+
+
+###Screenshots : The Final Product
+Our final product placed Google Maps at the centre of the user experience.  A user can enter any post-code or allow our site to access their current geolocation and upon submit, be presented with a full-size map illustrating local charities and Tesco stores (more to come) that would accept their produce.  Charities are denoted by "Oodls" owl pins, while Tesco stores are distinguished through the Tesco logo.  On clicking a charity pin, a user is presented with an info-window outlining opening hours, the key products that the charity is currently accepting, and links to a more detailed charity profile page.  The pin also links neatly to Google Maps externally should a user need directions and wish to take advantage of varied forms of transportation.  Tesco pins offer the very basics of Tesco's scheme and provide a link to Tesco's Food Donation literature.  The design of the app is responsive hence renders nicely on mobile devices and is integrated with both Twitter and Google Analytics.  
+
 
 <p>
 <img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/charityscreen.png">
@@ -75,37 +74,25 @@ An individual consumer with spare food to donate should be able to visit our sit
 
 
 
-###Sites With Similar Functionality
+### Why Was Tesco Integrated Into A Charitable Platform?
+Tesco actually hold over 350 permanent food collection points across many of their stores in the UK linked to FareShare and The Trussell Trust.  At these stores, consumers are welcome to donate food items of any brand (including competitors) from the pre-approved lists below with the produce ultimately distributed to the foodbanks.  Tesco also top up these consumer donations with money and state that their alliance with FareShare has helped provide the equivalent of seven million meals a year of surplus food.  Tesco themselves divert all surplus fresh food from their distribution centres and online grocery centres to FareShare, adding more fresh produce such as chicken, peppers, apples and other fresh fruit and vegetables.
 
-####[Freecycle](https://www.freecycle.org/)
-* Users sign up for an account on the site
-* Users search for, and join, local groups
-* Users make OFFERED or WANTED posts to the group, describing an item and giving their postcode
-* Other users reply to the post to request the item, or to offer an item that they have & to arrange collection etc.
-* Once an item has been taken, users make another post to the site
-* Users receive emails about the posts made on the site - either for every post, or as a digest
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/tesco_fare_share.png">
+<p>
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/tesco_trussell_trust.png">
 
-####[Freegle](https://ilovefreegle.org/)
-* Based on Freecycle
-* Users join a local Freegle group
-* Users make OFFERED posts to the group, describing an item and providing pictures
-* Other users reply to the post to request the item, or to offer an item that they have & to arrange collection etc.
-* Once an item has been taken, the user marks their post as TAKEN so that other users no longer request the item
 
-####[Gumtree](http://www.gumtree.com)
-* Users can post adverts to the site in pre-defined cataegories, with a location, images or video, and external links
-* Adverts can be marked as Urgent, Featured or Spotlight (at an extra cost)
-* Users can be contacted via email or phone
-* Users can reply to ads by writing messages through the site or phoning (if avaialble)
-* Users can search by keyword, category and postcode/location within given distances
 
-###Key Design Considerations
-We would like our site to present nicely on mobiles.  The responsive functionality that the [Foundation](http://foundation.zurb.com/) framework offers may be useful.  We want charities to be able to engage with this platform.  We must consider the technology they may use to access our app and hence accessibility will be one of the central challenges of our design.  [Modernizr](http://modernizr.com/) may be useful in dynamically checking browser support and hence conditionally including CSS and Javascript features.
+### Why The Tesco Data & Scheme Is Important
+As the precise data regarding those 350 Tesco collection points is a little scattered and/or non-existent, we contacted Tesco's customer service and investor relations teams to collect the store data.  To their credit, they supplied us with this and hence we were able to translate the post-codes into co-ordinates and pins on our map.  We saw this as important for the following reasons.  
 
-###Name, Branding & Promotion Ideas
-We like the idea of almost gamifying this topic, or branding through an animal character to engage people of all ages and to help brand.  Meercats have little to do with insurance but are memorable.  Oodles the Owl, Foodles, Share Bear, Town Mouse vs Country Mouse, seemed to be some of the key ideas that grabbed us, with oodles seeming the most catchy.  [Alan's initial draft logos can be viewed here.](https://github.com/benhutchinson/Oodls/blob/master/ideas.md#logo-iterations) 
 
-###Stretch Goal Features & Ideas
+Firstly, supermarket hours can be more consistent and extensive, the network of drop-off points is broad, the immediate beneficiaries are Fareshare and The Trussell Trust, and we have the data on-hand (!), this feature may be sensible to integrate.  It would be of use to those donors who have the will but are simply time poor.  The service could be considered a little analogus to Amazon's locker service and would ensure our platform is immediately populated with over 350 legitimate drop-off points that a donor could visit today.  Over time, there would be nothing stopping us from integrating other commercial entities that partner with foodbanks.  We could even provide a registration facility for this, recognising that many supermarkets determine their relations with local foodbanks at the regional store-level and hence the data-set is just more fragmented when compared with Tesco.  We could allow this facility to be turned on/off should a commercial provider have a change of policy or a donor have a preference to support different institutions.  We could also deploy customised marker icons so that users could clearly identify the type of drop-off points on the map.
+
+
+
+
+###How We Could Extend & Take This Project Forward
 - [Tesco have a Food Collection Programme](http://foodcollection.tesco.com/#donate-now) that is well-integrated with their nationwide store network.  Provided consumers offer items from those lists copied below, it is "really easy to donate in store" by leaving those products at Tesco's "permanent collection points" in their stores.  Tesco have confirmed to us that these items need not necessarily have been purchased in Tesco and hence a consumer is currently allowed to donate and deposit any produce or any brand that meets the conditions of the list.  Tesco does not publish an easily-accessible list of those stores that offer the foodbank collection point service on their web-site, but following contacts with Investor Relations and Customer Services, they did provide us with a CSV file populated with appropriate store post-codes.  Those stores aligned to [Trussell Trust are published on the Trussell Trust web-site](http://www.trusselltrust.org/resources/documents/Store-List-2014-November-National-Tesco-Collection.pdf) and Fareshare was also able to provide us with a list off-line.  We think we should be able to integrate this network so that consumers could find convenient locations near to their home or work, making it easier for them to donate spare food.
 - We could offer our unique and evolving data-set in the form of a RESTful API. 
 - We could allow users to perform more filtered searches, according to opening hours or the types of produce they hold for example.
@@ -118,18 +105,10 @@ We like the idea of almost gamifying this topic, or branding through an animal c
 - Hotel & Corporate Waste could be another future donor-base to target.
 - [Love Food Hate Waste have a mobile app](http://england.lovefoodhatewaste.com/content/download-new-love-food-hate-waste-free-app) that has some synnergies with our idea.  This also links to the API idea above.
 
-
-###The Products That Tesco Can Receive
-
-Tesco have over 350 permanent food collection points across many of their stores in the UK, at which consumers can donate food items (from any brand, including competitor supermarkets) from the pre-approved lists below.  Tesco themselves divert all surplus fresh food from their distribution centres and online grocery centres to FareShare, adding more fresh produce such as chicken, peppers, apples and other fresh fruit and vegetables.  Tesco also top up consumer donations with money and state that their alliance with FareShare has helped provide the equivalent of seven million meals a year of surplus food.  
-
-<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/tesco_fare_share.png">
-<p>
-<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/tesco_trussell_trust.png">
+We want charities to be able to engage with this platform.  We must consider the technology they may use to access our app and hence accessibility will be one of the central challenges of our design.  [Modernizr](http://modernizr.com/) may be useful in dynamically checking browser support and hence conditionally including CSS and Javascript features.
 
 
-### Why Would You Integrate Tesco Into A Charitable Platform?
-As supermarket hours can be more consistent and extensive, the network of drop-off points is broad, the immediate beneficiaries are Fareshare and The Trussell Trust, and we have the data on-hand (!), this feature may be sensible to integrate.  It would be of use to those donors who have the will but are simply time poor.  The service could be considered a little analogus to Amazon's locker service and would ensure our platform is immediately populated with over 350 legitimate drop-off points that a donor could visit today.  Over time, there would be nothing stopping us from integrating other commercial entities that partner with foodbanks.  We could even provide a registration facility for this, recognising that many supermarkets determine their relations with local foodbanks at the regional store-level and hence the data-set is just more fragmented when compared with Tesco.  We could allow this facility to be turned on/off should a commercial provider have a change of policy or a donor have a preference to support different institutions.  We could also deploy customised marker icons so that users could clearly identify the type of drop-off points on the map.
+
 
 
 ###Team Policies
