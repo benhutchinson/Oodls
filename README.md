@@ -5,7 +5,7 @@
 
 This was our final two-week challenge at Makers Academy.  We sought to create a web application to connect individuals with surplus food to those local charities and organisations in need.  This was a [team challenge](#team) drawing on an initial idea from [Claudia Beresford](https://github.com/Callisto13) and [the original project is hosted here on Heroku.](http://www.oodlsio.herokuapp.com)
 
-###Contents
+###Index Of Contents
 - The Cause : Resources
 - The Cause : Some Killer Stats
 - Our Minimum Viable Product & Basic User Story
@@ -23,8 +23,6 @@ This was our final two-week challenge at Makers Academy.  We sought to create a 
 
 
 
-- site screenshots
-- user story pics
 - mobile
 - analytics/twitter
 - ppt link in techs.
@@ -57,6 +55,23 @@ An individual consumer with spare food to donate should be able to visit our sit
 
 <p>
 <img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/smalluserstory.png">
+
+
+###Screenshots : Final Product
+
+<p>
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/charityscreen.png">
+
+
+<p>
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/tescoscreen.png">
+
+
+<p>
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/twitter.png">
+
+<p>
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/twittercard.png">
 
 
 
@@ -118,7 +133,7 @@ As supermarket hours can be more consistent and extensive, the network of drop-o
 
 
 ###Team Policies
-We are aiming to be in around 9.30am, starting the day with a 'stand-up' meeting and taking lunch as a proper break around 12.30.  We are very keen to have a well-tested product and want to follow a test-driven-development process.  We want to celebrate little victories and milestones and have some fun.
+We all got in for 9.30am and started the day with a 'stand-up' meeting and took lunch as a proper break around 12.30.  We aimed to follow test-driven-development philosophies where it was possible and sensible.
 
 
 [](#team)<a name="team"></a>
