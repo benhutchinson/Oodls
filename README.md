@@ -6,15 +6,15 @@
 This was our final two-week challenge at Makers Academy.  We sought to create a web application to connect individuals with surplus food to those local charities and organisations in need.  This was a [team challenge](#team) drawing on an initial idea from [Claudia Beresford](https://github.com/Callisto13) and [the original project is hosted here on Heroku.](http://www.oodlsio.herokuapp.com)
 
 ###Index Of Contents
-- The Cause : Resources
-- The Cause : Some Killer Stats
-- Our Minimum Viable Product & Basic User Story
-- Name, Branding & Promotion Ideas
-- Screenshots : The Final Product
-- Why Was Tesco Integrated Into A Charitable Platform?
-- Why The Tesco Data & Scheme Is Important
-- How We Could Extend & Improve This Project
-- Team Members
+- <a href="#the-cause--resources">The Cause : Resources</a>
+- <a href="#the-cause--some-killer-stats">The Cause : Some Killer Stats</a>
+- <a href="#our-minimum-viable-product--basic-user-story">Our Minimum Viable Product & Basic User Story</a>
+- <a href="#name-branding--promotion-ideas">Name, Branding & Promotion Ideas</a>
+- <a href="#screenshots--the-final-product">Screenshots : The Final Product</a>
+- <a href="#why-was-tesco-integrated-into-a-charitable-platform">Why Was Tesco Integrated Into A Charitable Platform?</a>
+- <a href="#why-the-tesco-data--scheme-is-important">Why The Tesco Data & Scheme Is Important</a>
+- <a href="#how-we-could-extend--improve-this-project">How We Could Extend & Improve This Project</a>
+- <a href="#team-members">Team Members</a>
 - <a href="#technologies">Technologies</a>
 
 <p>
