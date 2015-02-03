@@ -1,9 +1,9 @@
-[oodls : Waste Food Project](http://www.oodls.io/)
+[oodls : Waste Food Project](http://www.oodlsio.herokuapp.com)
 ==========================
 
 [![Code Climate](https://codeclimate.com/github/Callisto13/Oodls/badges/gpa.svg)](https://codeclimate.com/github/Callisto13/Oodls) [![Test Coverage](https://codeclimate.com/github/Callisto13/Oodls/badges/coverage.svg)](https://codeclimate.com/github/Callisto13/Oodls)
 
-This was our final two-week challenge at Makers Academy.  We sought to create a web application to connect individuals with surplus food to those local charities and organisations in need.  This was a [team challenge](#team) drawing on an initial idea from [Claudia Beresford](https://github.com/Callisto13) and [the original project is hosted here on heroku](http://www.oodlsio.herokuapp.com)
+This was our final two-week challenge at Makers Academy.  We sought to create a web application to connect individuals with surplus food to those local charities and organisations in need.  This was a [team challenge](#team) drawing on an initial idea from [Claudia Beresford](https://github.com/Callisto13) and [the original project is hosted here on Heroku.](http://www.oodlsio.herokuapp.com)
 
 ###Contents
 - The Cause : Resources
@@ -17,6 +17,7 @@ This was our final two-week challenge at Makers Academy.  We sought to create a 
 - Team Members
 - Technologies
 
+<p>
 <p>
 <img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/presentationfront.png">
 
@@ -52,7 +53,12 @@ Here are some links that give further background on the topic.  I have summarise
 
 
 ###Our Minimum Viable Product & Basic User Story
-An individual consumer who has spare food to donate should be able to visit our site, enter a post-code, and then be presented with a list of local charities that would accept their food.  The applicable charities' locations should be clearly presented and sorted according to their proximity.  [Some mock graphics illustrating our user story & graphical user interface can be seen here.](https://github.com/Callisto13/Oodls/blob/master/ideas.md#gui--user-story)
+An individual consumer with spare food to donate should be able to visit our site, enter a post-code, and then be presented with a list of local charities that would accept their food.  The applicable charities' locations should be clearly presented and sorted according to their proximity.  [Our larger original wireframe graphics illustrating our user story & graphical user interface can be seen here](https://github.com/benhutchinson/Oodls/blob/master/ideas.md#gui--user-story) and [Claudia's more extensive, original MVP can be found here.](https://github.com/benhutchinson/Oodls/blob/master/mvp.md)  A scaled down version of our user story is shown below.
+
+<p>
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/smalluserstory.png">
+
+
 
 ###Sites With Similar Functionality
 
@@ -82,7 +88,7 @@ An individual consumer who has spare food to donate should be able to visit our 
 We would like our site to present nicely on mobiles.  The responsive functionality that the [Foundation](http://foundation.zurb.com/) framework offers may be useful.  We want charities to be able to engage with this platform.  We must consider the technology they may use to access our app and hence accessibility will be one of the central challenges of our design.  [Modernizr](http://modernizr.com/) may be useful in dynamically checking browser support and hence conditionally including CSS and Javascript features.
 
 ###Name, Branding & Promotion Ideas
-We like the idea of almost gamifying this topic, or branding through an animal character to engage people of all ages and to help brand.  Meercats have little to do with insurance but are memorable.  Oodles the Owl, Foodles, Share Bear, Town Mouse vs Country Mouse, seemed to be some of the key ideas that grabbed us, with oodles seeming the most catchy.  [Alan's initial draft logos can be viewed here.](https://github.com/Callisto13/Oodls/blob/master/ideas.md#logo-iterations) 
+We like the idea of almost gamifying this topic, or branding through an animal character to engage people of all ages and to help brand.  Meercats have little to do with insurance but are memorable.  Oodles the Owl, Foodles, Share Bear, Town Mouse vs Country Mouse, seemed to be some of the key ideas that grabbed us, with oodles seeming the most catchy.  [Alan's initial draft logos can be viewed here.](https://github.com/benhutchinson/Oodls/blob/master/ideas.md#logo-iterations) 
 
 ###Stretch Goal Features & Ideas
 - [Tesco have a Food Collection Programme](http://foodcollection.tesco.com/#donate-now) that is well-integrated with their nationwide store network.  Provided consumers offer items from those lists copied below, it is "really easy to donate in store" by leaving those products at Tesco's "permanent collection points" in their stores.  Tesco have confirmed to us that these items need not necessarily have been purchased in Tesco and hence a consumer is currently allowed to donate and deposit any produce or any brand that meets the conditions of the list.  Tesco does not publish an easily-accessible list of those stores that offer the foodbank collection point service on their web-site, but following contacts with Investor Relations and Customer Services, they did provide us with a CSV file populated with appropriate store post-codes.  Those stores aligned to [Trussell Trust are published on the Trussell Trust web-site](http://www.trusselltrust.org/resources/documents/Store-List-2014-November-National-Tesco-Collection.pdf) and Fareshare was also able to provide us with a list off-line.  We think we should be able to integrate this network so that consumers could find convenient locations near to their home or work, making it easier for them to donate spare food.
