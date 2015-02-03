@@ -3,11 +3,11 @@
 
 [![Code Climate](https://codeclimate.com/github/Callisto13/Oodls/badges/gpa.svg)](https://codeclimate.com/github/Callisto13/Oodls) [![Test Coverage](https://codeclimate.com/github/Callisto13/Oodls/badges/coverage.svg)](https://codeclimate.com/github/Callisto13/Oodls)
 
-This is our final two-week challenge at Makers Academy.  We are aiming to create a web application that will connect individuals with surplus food to those local charities and organisations in need.  This is a [team challenge](#team) drawing on an initial idea from [Claudia Beresford](https://github.com/Callisto13) and is [hosted here on heroku and via the domain oodls.io](http://www.oodls.io)
+This was our final two-week challenge at Makers Academy.  We sought to create a web application to connect individuals with surplus food to those local charities and organisations in need.  This was a [team challenge](#team) drawing on an initial idea from [Claudia Beresford](https://github.com/Callisto13) and [the original project is hosted here on heroku](http://www.oodlsio.herokuapp.com)
 
 
 ###The Cause : Resources
-Here are some links that Claudia found that give further background on the topic:
+Here are some links that give further background on the topic.  I have summarised some of the key points from the House of Commons report in [a separate page here.](https://github.com/benhutchinson/Oodls/blob/master/NotesHouseOfCommons.md) but also extracted some statistics that caught my eye from the sources below.
 * [FareShare](http://www.fareshare.org.uk/)
 * [FareShare Food Guidelines](http://www.fareshare.org.uk/wp-content/uploads/2014/12/Food-offers-Guidelines-2014-15.pdf)
 * [FoodCycle](http://foodcycle.org.uk/)
