@@ -15,7 +15,7 @@ This was our final two-week challenge at Makers Academy.  We sought to create a 
 - Why The Tesco Data & Scheme Is Important
 - How We Could Extend & Improve This Project
 - Team Members
-- <a name="#technologies"></a>Technologies</a>
+- <a name="#technologies">Technologies</a>
 
 <p>
 <p>
