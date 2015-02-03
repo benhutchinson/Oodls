@@ -18,8 +18,10 @@ This was our final two-week challenge at Makers Academy.  We sought to create a 
 - Technologies
 
 
-
-- google analytics/twitter
+- site screenshots
+- mobile
+- analytics/twitter
+- ppt link in techs.
 
 
 
