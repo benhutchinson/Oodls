@@ -9,13 +9,13 @@ This was our final two-week challenge at Makers Academy.  We sought to create a 
 - The Cause : Resources
 - The Cause : Some Killer Stats
 - Our Minimum Viable Product & Basic User Story
-- Sites With Similar Functionality
-- Key Design Considerations
-- Stretch Goal Features & Ideas
-- Why Would You Integrate Tesco Into A Charitable Platform?
-- Team Policies
+- Name, Branding & Promotion Ideas
+- Screenshots : The Final Product
+- Why Was Tesco Integrated Into A Charitable Platform?
+- Why The Tesco Data & Scheme Is Important
+- How We Could Extend & Improve This Project
 - Team Members
-- Technologies
+- <a name="#technologies"></a>Technologies</a>
 
 <p>
 <p>
@@ -87,7 +87,7 @@ Our final product placed Google Maps at the centre of the user experience.  A us
 As the precise data regarding those 350 Tesco collection points is a little scattered and/or non-existent, we contacted Tesco's customer service and investor relations teams to collect the store data.  To their credit, they supplied us with appropriate CSV files and hence we were able to use these to translate post-codes into co-ordinates and present those stores as pins on our map.  Nothing so simple currently exists for the Tesco consumer (or food donor).  We saw this as important from a practical and usability perspective.  Supermarket hours can be more consistent and extensive and the network of drop-off points is broad and hence this would be of use to those donors who have the will but are simply time poor.  The immediate beneficiaries of this Tesco service are Fareshare and The Trussell Trust The service and we saw the facility a little analogus to Amazon's locker service.  Most importantly, it would ensure our platform is immediately populated with over 350 legitimate drop-off points that a donor could visit today.  The platform would be usable "out-of-the-box" and be less likely to stagnate allowing charity registrations to gradually unfold.
 
 
-###How We Could Extend & Take This Project Forward
+###How We Could Extend & Improve This Project
 - Firstly, there would be nothing stopping us integrating other commercial entities beyond Tesco that partner with foodbanks.  We could even provide a registration facility for this, recognising that many supermarkets determine their relations with local foodbanks at the regional store-level and hence the data-set is just more fragmented and harder to come by compared to Tesco.  We could allow this facility to be turned on/off should a commercial provider have a change of policy or a donor have a preference to support different institutions.  We could also deploy customised marker icons so that users could clearly identify the type of drop-off points on the map.
 - We could offer our unique and evolving data-set in the form of a RESTful API. 
 - We could allow users to perform more filtered searches, perhaps according to opening hours.  Users are currently able to filter according to the type of produce that they wish to donate.
