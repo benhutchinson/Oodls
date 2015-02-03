@@ -17,8 +17,13 @@ This was our final two-week challenge at Makers Academy.  We sought to create a 
 - Team Members
 - Technologies
 
+<p>
+<img src="https://raw.githubusercontent.com/Callisto13/Oodls/master/public/images/presentationfront.png">
+
+
 
 - site screenshots
+- user story pics
 - mobile
 - analytics/twitter
 - ppt link in techs.
@@ -42,6 +47,8 @@ Here are some links that give further background on the topic.  I have summarise
 * FareShare provided 13.2m meals last year and state that over 82,000 people benefit from FareShare food per day.  They believe the beneficiary charities that they serve saved costs of around £13k as a result.  Despite this, they believe that they are currently handling just 1.5% of surplus food available in the UK.  They believe that c800m meals could be provided having assessed food wasted and a proportion that is fit for consumption.
 
 * Positive Trends: [According to Love Food Hate Waste](http://england.lovefoodhatewaste.com/node/2472)), between 2007 and 2012 avoidable food waste has been reduced by 21%, equivalent to over 1 million tonnes.  [Tesco's national collections](http://foodcollection.tesco.com) have grown in size.  November 2014 was their fifth collection and raised 4.7 million meals vs the first in December 2012 which raised 2.4 million meals.
+
+* More.  Per the above, I have summarised some of the key points from the House of Commons report in [a separate page here.](https://github.com/benhutchinson/Oodls/blob/master/NotesHouseOfCommons.md) 
 
 
 ###Our Minimum Viable Product & Basic User Story
@@ -116,7 +123,11 @@ We are aiming to be in around 9.30am, starting the day with a 'stand-up' meeting
 - [Ben Hutchinson](https://github.com/benhutchinson)
 
 ###Technologies
+- [The basic Powerpoint slides illustrating the technologies are here](https://rawgit.com/benhutchinson/Oodls/master/public/v1presentation.pptx).  The key slide is copied below.  It clusters the design/front-end technologies, external platforms/APIs, and database-security technology as appropriate, with Rails acting as the conductor at the core.
 - Rails, Ruby, Rspec
 - Foundation
 - Google Maps API & Gmaps.Js
 - Adobe Illustrator
+
+<p>
+<img src="https://raw.githubusercontent.com/Callisto13/Oodls/master/public/images/technologies.png">
