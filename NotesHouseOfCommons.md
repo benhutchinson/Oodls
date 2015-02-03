@@ -1,4 +1,4 @@
-####The 2015 House of Commons Environment, Food and Rural Affairs Committee Report
+#The 2015 House of Commons Environment, Food and Rural Affairs Committee Report
 ======================================================================================
 
 Here are some extract notes from the [Food security: demand, consumption and waste](http://www.publications.parliament.uk/pa/cm201415/cmselect/cmenvfru/703/703.pdf) report relevant to our project.  

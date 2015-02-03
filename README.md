@@ -5,6 +5,23 @@
 
 This was our final two-week challenge at Makers Academy.  We sought to create a web application to connect individuals with surplus food to those local charities and organisations in need.  This was a [team challenge](#team) drawing on an initial idea from [Claudia Beresford](https://github.com/Callisto13) and [the original project is hosted here on heroku](http://www.oodlsio.herokuapp.com)
 
+###Contents
+- The Cause : Resources
+- The Cause : Some Killer Stats
+- Our Minimum Viable Product & Basic User Story
+- Sites With Similar Functionality
+- Key Design Considerations
+- Stretch Goal Features & Ideas
+- Why Would You Integrate Tesco Into A Charitable Platform?
+- Team Policies
+- Team Members
+- Technologies
+
+
+
+- google analytics/twitter
+
+
 
 ###The Cause : Resources
 Here are some links that give further background on the topic.  I have summarised some of the key points from the House of Commons report in [a separate page here.](https://github.com/benhutchinson/Oodls/blob/master/NotesHouseOfCommons.md) but also extracted some statistics that caught my eye from the sources below.
