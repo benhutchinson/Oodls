@@ -18,7 +18,7 @@ This was our final two-week challenge at Makers Academy.  We sought to create a 
 - Technologies
 
 <p>
-<img src="https://raw.githubusercontent.com/Callisto13/Oodls/master/public/images/presentationfront.png">
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/presentationfront.png">
 
 
 
@@ -102,9 +102,9 @@ We like the idea of almost gamifying this topic, or branding through an animal c
 
 Tesco have over 350 permanent food collection points across many of their stores in the UK, at which consumers can donate food items (from any brand, including competitor supermarkets) from the pre-approved lists below.  Tesco themselves divert all surplus fresh food from their distribution centres and online grocery centres to FareShare, adding more fresh produce such as chicken, peppers, apples and other fresh fruit and vegetables.  Tesco also top up consumer donations with money and state that their alliance with FareShare has helped provide the equivalent of seven million meals a year of surplus food.  
 
-<img src="https://raw.githubusercontent.com/Callisto13/Oodls/master/public/images/tesco_fare_share.png">
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/tesco_fare_share.png">
 <p>
-<img src="https://raw.githubusercontent.com/Callisto13/Oodls/master/public/images/tesco_trussell_trust.png">
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/tesco_trussell_trust.png">
 
 
 ### Why Would You Integrate Tesco Into A Charitable Platform?
@@ -130,4 +130,4 @@ We are aiming to be in around 9.30am, starting the day with a 'stand-up' meeting
 - Adobe Illustrator
 
 <p>
-<img src="https://raw.githubusercontent.com/Callisto13/Oodls/master/public/images/technologies.png">
+<img src="https://raw.githubusercontent.com/benhutchinson/Oodls/master/public/images/technologies.png">
